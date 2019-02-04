@@ -8,4 +8,17 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Text" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:padding">@dimen/text_block_padding</item>
+        <item name="android:layout_margin">@dimen/text_block_margin</item>
+    </style>
+
+    <style name="Text.First">
+        <item name="android:background">@color/background_alt_first</item>
+    </style>
+
+    <style name="Text.Second">
+        <item name="android:background">@color/background_alt_second</item>
+    </style>
+
 </resources>

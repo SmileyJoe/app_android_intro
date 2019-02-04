@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Android Intro</string>
+    <string name="text_first">First</string>
+    <string name="text_second">Second</string>
+    <string name="text_left">Left</string>
+    <string name="text_right">Right</string>
+    <string name="text_second_activity">Second Activity</string>
+    <string name="text_last">Last</string>
+    <string name="hint_name">Name</string>
 </resources>
